@@ -40,5 +40,6 @@ public class C01_Xpath {
             System.out.println("TEST PASSED");
         }else System.out.println("TEST FAILED");
 
+        driver.close();
     }
 }
